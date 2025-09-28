@@ -1,0 +1,43 @@
+# J. Rosenberg
+# PLD Lab 6
+
+# Assignment:
+# Develop a program, in which you'll design a class that holds the following personal data:
+#   name
+#   address
+#   age
+#   phone number
+# As part of the program, you'll then create appropriate accessor and mutator methods.
+
+# Also, set up three instances of the class. One instance should hold your information, and the other two should hold your friends’ or family members’ information.  The input data do not need to be real data.
+
+# Input Data:
+# Set up a loop and enter the following input data:
+#   data for the following attributes of 3 instances of the  Personal Information Class:
+#   name, address, age, and phone number
+#   The input data does not need to be real data. They need to be entered at the keyboard, when the program is run.
+
+# Processing:  
+
+# Develop the following:
+
+# Personal Information Class
+# A program that creates three instances of the above class
+# Output Data:
+#  Set up a loop and display data within each object:
+#     name
+#     address
+#     age
+#     phone number 
+
+# Requirements
+#    prompt the user for the input data (an object's mass) asked for within the problem statement
+#    set up a correct formula to process the input data, arriving at the output data
+#    provide the output data asked for within the problem statement to the user
+
+
+# Prior to the start of your solution, include a paragraph of Python comment lines, explaining what is being accomplished.
+# Input Data: document variables used to hold input data. 
+# Output Data: document variables used to hold output data. 
+# Processing: document the formulas/equations you set up as part of your processing. 
+
